@@ -1,0 +1,1 @@
+<view class="vedio-con data-v-0b212946"><block wx:for="{{vedioArr}}" wx:for-item="val" wx:for-index="index"><block wx:if="{{val.vedioPath}}"><video class="item data-v-0b212946" enable-play-gesture="{{true}}" poster="{{val.swiperImgPath}}" object-fit="fill" src="{{val.vedioPath}}" controls="{{true}}"></video></block></block></view>

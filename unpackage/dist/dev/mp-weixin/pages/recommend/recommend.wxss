@@ -1,0 +1,23 @@
+
+.pos.data-v-53877fc0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 25%;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 20rpx;
+	padding-left: 20rpx;
+}
+.water-flow.data-v-53877fc0{
+	margin-top: 60rpx;
+}
+.left.data-v-53877fc0{
+	padding: 10rpx;
+}
+.right.data-v-53877fc0{
+	padding: 10rpx;
+}
+
+

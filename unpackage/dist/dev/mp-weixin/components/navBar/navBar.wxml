@@ -1,0 +1,1 @@
+<view class="con data-v-671b8244"><view class="bar-con data-v-671b8244"><view class="back data-v-671b8244"><image src="/static/images/back.png" data-event-opts="{{[['tap',[['back',['$event']]]]]}}" bindtap="__e" class="data-v-671b8244"></image></view><view class="search data-v-671b8244"><input type="text" value="" placeholder="请输入" class="data-v-671b8244"/></view></view></view>

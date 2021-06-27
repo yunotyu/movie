@@ -1,0 +1,11 @@
+.score.data-v-d17ff72c {
+  margin-top: 2rpx;
+}
+.score image.data-v-d17ff72c {
+  width: 24rpx;
+  height: 24rpx;
+}
+.score text.data-v-d17ff72c {
+  margin-left: 10rpx;
+}
+

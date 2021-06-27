@@ -1,0 +1,73 @@
+.love.data-v-263c3dc4 {
+  margin-top: 10rpx;
+}
+.love .title image.data-v-263c3dc4 {
+  height: 48rpx;
+  width: 48rpx;
+  vertical-align: middle;
+}
+.love .title text.data-v-263c3dc4 {
+  font-size: 16px;
+  font-weight: 700;
+}
+.love .content-hd.data-v-263c3dc4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding-left: 20rpx;
+}
+.love .content-hd .content-bd.data-v-263c3dc4 {
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.love .content-hd .content-bd .box.data-v-263c3dc4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.love .content-hd .content-bd .box .info.data-v-263c3dc4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 20rpx;
+}
+.love .content-hd .content-bd .box .info .info-title.data-v-263c3dc4 {
+  font-size: 16px;
+  font-weight: 600;
+}
+.love .content-hd .content-bd .box .like.data-v-263c3dc4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  border-left: 6rpx dashed #dbdbda;
+}
+.love .content-hd .content-bd .box .like .ani.data-v-263c3dc4 {
+  opacity: 0;
+  color: orange;
+  font-size: 16px;
+}
+

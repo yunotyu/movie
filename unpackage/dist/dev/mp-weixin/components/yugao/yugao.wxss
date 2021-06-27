@@ -1,0 +1,13 @@
+.yugao.data-v-71cfeb78 {
+  margin-top: 10rpx;
+}
+.yugao image.data-v-71cfeb78 {
+  height: 48rpx;
+  width: 48rpx;
+  vertical-align: middle;
+}
+.yugao text.data-v-71cfeb78 {
+  font-size: 16px;
+  font-weight: 700;
+}
+

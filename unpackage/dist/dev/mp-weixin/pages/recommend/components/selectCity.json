@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "ss-select-city": "/components/ss-select-city/index",
+    "navbar": "/components/navBar/navBar"
+  }
+}

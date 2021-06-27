@@ -1,0 +1,1 @@
+<view class="data-v-cbafed78"><scroll-view class="h-scrollView data-v-cbafed78" scroll-with-animation="true" show-scrollbar="true" scroll-x="true" data-event-opts="{{[['scroll',[['scroll',['$event']]]]]}}" bindscroll="__e"><slot></slot></scroll-view></view>

@@ -1,0 +1,22 @@
+.swiper {
+  height: 500rpx;
+}
+.swiperImg {
+  width: 100%;
+}
+.hot {
+  margin-top: 20rpx;
+}
+.hot .hot-hd image {
+  height: 48rpx;
+  width: 48rpx;
+  vertical-align: bottom;
+}
+.hot .hot-hd text {
+  font-size: 18px;
+  font-weight: 800;
+}
+.hot-bd {
+  height: 350rpx;
+}
+

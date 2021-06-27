@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "yugao": "/components/yugao/yugao",
+    "love": "/components/love/love",
+    "h-scroll-view": "/components/scroll/horScroll",
+    "hor-scr-con": "/components/scroll/hScrollCon",
+    "vedio-scr-item": "/components/scroll/components/videoHScrItem"
+  }
+}
